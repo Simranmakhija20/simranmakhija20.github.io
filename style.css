@@ -90,7 +90,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background-image:url('../WebDevelopment/images/bg-cover.jpg') ;
+    background-image:url(./images/bg-cover.jpg) ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

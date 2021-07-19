@@ -2,7 +2,7 @@ html{
     overflow: hidden;
   }
   body{
-      background-image:url('../simranmakhija20.github.io/2.jpg');
+      background-image:url(./images/2.jpg);
       background-attachment:fixed;
       background-size:cover;
   }
